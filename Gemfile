@@ -19,6 +19,9 @@ gem 'uglifier'
 #Authentification User
 gem 'devise'
 
+#Security Api
+gem 'figaro'
+
 group :development, :test do
   gem 'pry-byebug'
   gem 'pry-rails'
